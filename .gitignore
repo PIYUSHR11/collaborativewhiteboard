@@ -44,3 +44,5 @@ server/dist/
 
 # Vercel / Hosting
 .vercel
+#ntlify
+netlify.toml
